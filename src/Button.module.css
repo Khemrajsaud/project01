@@ -1,0 +1,14 @@
+.button {
+  background-color: rgb(90, 17, 237);
+  color: white;
+  text-align: center;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  align-items: center;
+  border: none;
+
+}
+.nav-bar{
+  color: aquamarine;
+}
